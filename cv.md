@@ -12,6 +12,7 @@ I am 33 years old. I live and work in Gomel. Currently, I have a small trading b
 ##My skills:
 * Markdown
 * Photoshop
+* CorelDraw
 ***
 ##Code Examples:
 ```
