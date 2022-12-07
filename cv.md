@@ -1,8 +1,8 @@
-#Natallia Larchyk
+# Natallia Larchyk
 
 ***
 
-##My contacts:
+## My contacts:
 * **My phone:** +375(29)661-82-35
 * **My e-mail:** natasha31larchik@mail.ru
 * **My adress:** Gomel, Belarus
@@ -10,19 +10,19 @@
 
 ***
 
-##About me:
+## About me:
 I am 33 years old. I live and work in Gomel. Currently, I have a small trading business. I want to gain new IT knowledge and use it to expand my business.
 
 ***
 
-##My skills:
+## My skills:
 * Markdown
 * Photoshop
 * CorelDraw
 
 ***
 
-##Code Examples:
+## Code Examples:
 ```
 const assert = require("chai").assert;
 
@@ -35,16 +35,16 @@ describe("Multiply", () => {
   });
 });
 ```
-##Work Expirience:
+## Work Expirience:
 Not yet
 
 ***
 
-##Education:
+## Education:
 
 Belarusian State University of Transport
 
-##English level
+## English level
 
 A2 (Pre-Intermidiate)
 
